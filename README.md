@@ -3,7 +3,7 @@ Collection of links and resources for better understanding of Everest.org
 
 Educational material:
 
-ARTICLES:
+ARTICLES & PRESENTATIONS:
 
 - What is Everest ecosystem and what are its components:
 		https://everest-foundation.medium.com/everest-ecosystem-the-next-generation-of-blockchain-crypto-and-identity-db4830941271
