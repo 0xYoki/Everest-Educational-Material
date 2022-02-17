@@ -17,7 +17,7 @@ Educational material:
 - Principal values and purpose of Everest Foundation: https://everestfoundation.net/docs/inf-background
 
 - Everest Whitepaper: https://www.everestlink.org/wp-content/uploads/2021/02/EverestFoundationPlatformTechBriefv320.pdf
-- 
+ 
 - Everest case studies:
 	- Banking & financial institutions solutions and services: https://www.everest.org/pdf/banks.pdf
 	- eGovernament platform: https://www.everest.org/pdf/egov.pdf
