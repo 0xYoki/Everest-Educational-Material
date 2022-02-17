@@ -3,7 +3,7 @@ Collection of links and resources for better understanding of Everest.org
 
 Educational material:
 
-#ARTICLES:
+ARTICLES:
 
 - What is Everest ecosystem and what are its components:
 		https://everest-foundation.medium.com/everest-ecosystem-the-next-generation-of-blockchain-crypto-and-identity-db4830941271
@@ -37,8 +37,8 @@ Educational material:
 
 - Digital Identity with Attestations and Value Transfer Capabilities: https://medium.com/about-everest-updates-and-news/digital-identity-with-attestations-and-value-transfer-capabilities-917361614c08
 
-#VIDEOS:
-- Toomas Hendrik Ilves on key elements in order to digitize society: https://www.youtube.com/watch?v=yVgLpNLA0Yg
+VIDEOS:
+
 - Recap and overview after the completion of a POC with The Global Legal Entity Identifier Foundation (GLEIF):
 	https://medium.com/about-everest-updates-and-news/everest-gleif-and-adb-to-streamline-cross-border-transactions-between-companies-80eda13fcd57
 - New America article on SSI platforms to watch and their comparison: 
@@ -55,3 +55,4 @@ Educational material:
 - Bob's presentation at DeFi Toronto(starts around 50 minute mark): https://us02web.zoom.us/rec/play/TUjiNUD_PzsaiH0hGOWav9n-YjcpcDytpLKepvLVdVlka9UX0UgWo8Yz0efdBSTncN3WIZlayvqgFVzj.N_C90u0IXVVu6z4N
 - Bob Reid at Smart Contract Summit #1 on why High Quality Data Matters to SC: https://www.youtube.com/watch?v=vbzIdqwB1BA
 - Bob Reid in conversation with Devin Thorpe from Forbes: https://www.youtube.com/watch?v=VaO13ViTfy0&feature=emb_imp_woyt
+- Toomas Hendrik Ilves on key elements in order to digitize society: https://www.youtube.com/watch?v=yVgLpNLA0Yg
